@@ -97,6 +97,7 @@ wp-content/plugins/hello.php
 wp-content/themes/twentyfifteen/
 wp-content/themes/twentyseventeen/
 wp-content/themes/twentysixteen/
+wp-content/themes/wp-bootstrap-4/
 
 # ignore node/grunt dependency directories
 node_modules/

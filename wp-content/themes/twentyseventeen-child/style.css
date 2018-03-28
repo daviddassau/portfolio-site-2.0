@@ -12,8 +12,6 @@
  Text Domain:  twenty-seventeen-child
 */
 
-@import url("../twentyseventeen/style.css");
-
-body {
-    color: pink; 
- }
+.advertisement {
+    text-align: center;
+}

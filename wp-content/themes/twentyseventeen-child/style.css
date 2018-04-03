@@ -12,12 +12,14 @@
  Text Domain:  twenty-seventeen-child
 */
 
+@import url("../twentyseventeen/style.css");
+
 .advertisement {
     text-align: center;
     color: pink;
 }
 
-body.page-template-template-full-width #content #primary {
+/* body.page-template-template-full-width #content #primary {
 	max-width: 100%;
 }
 
@@ -29,8 +31,21 @@ body.page-template-template-full-width #content #primary .entry-content {
 
 body.page-template-template-full-width #content #primary .entry-header {
     margin-bottom: 4em;
-}
+} */
 
 .professional-history-pb {
     margin-bottom: 20px;
+}
+
+.card-body {
+    color: #333333;
+}
+
+.card-title-projects {
+    color: black;
+    font-weight: bold;
+}
+
+.bdp_blog_template .bd-blog-header h2 {
+    background: none;
 }
